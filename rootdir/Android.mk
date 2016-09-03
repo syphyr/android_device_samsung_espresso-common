@@ -1,5 +1,4 @@
 LOCAL_PATH:= $(call my-dir)
-include $(CLEAR_VARS)
 
 # boot.img parts
 include $(CLEAR_VARS)
